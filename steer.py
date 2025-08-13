@@ -9,14 +9,14 @@ actuator_out_pin = 24
 
 
 # loop through 50 times, on/off for 1 second
-def turn_right():
+def right():
     GPIO.output(actuator_out_pin, True)
     time.sleep(0.1)
     GPIO.output(actuator_out_pin, False)
     time.sleep(0.1)
 
 
-def turn_left():
+def left():
     GPIO.output(actuator_in_pin, True)
     time.sleep(0.1)
     GPIO.output(actuator_in_pin, False)
