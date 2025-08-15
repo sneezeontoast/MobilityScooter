@@ -35,4 +35,4 @@ def left():
     setup_neg_pin_2.off()
 
 right()
-left()
+# left()
