@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd99921c-1322-4815-8b69-79011a5b31e4" name="Changes" comment="WORKING ONE WAY">
-      <change beforePath="$PROJECT_DIR$/steer.py" beforeDir="false" afterPath="$PROJECT_DIR$/steer.py" afterDir="false" />
-    </list>
+    <list default="true" id="fd99921c-1322-4815-8b69-79011a5b31e4" name="Changes" comment="Hopefullly work" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755245998532</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Hopefullly work">
+      <option name="closed" value="true" />
+      <created>1755246392587</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1755246392587</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,6 +140,7 @@
     <MESSAGE value="Mobility Scooter nice" />
     <MESSAGE value="Mobility Scooter Work with gpiozero" />
     <MESSAGE value="WORKING ONE WAY" />
-    <option name="LAST_COMMIT_MESSAGE" value="WORKING ONE WAY" />
+    <MESSAGE value="Hopefullly work" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hopefullly work" />
   </component>
 </project>
