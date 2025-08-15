@@ -23,7 +23,7 @@ def right():
 
 
 def left():
-    print("Moving left")
+    print("Moving left yellow wire not reciving")
     # actuator_in_pin_1.on()
     # actuator_in_pin_2.on()
     # time.sleep(2)
