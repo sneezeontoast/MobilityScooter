@@ -17,19 +17,19 @@ def right():
 
     actuator_out_pin_1.on()
     actuator_out_pin_2.on()
-    time.sleep(4)
+    time.sleep(2)
     actuator_out_pin_1.off()
     actuator_out_pin_2.off()
 
 
 def left():
     print("Moving left")
-    actuator_in_pin_1.on()
-    actuator_in_pin_2.on()
-    time.sleep(4)
-    actuator_in_pin_1.off()
-    actuator_in_pin_2.off()
+    # actuator_in_pin_1.on()
+    # actuator_in_pin_2.on()
+    # time.sleep(2)
+    # actuator_in_pin_1.off()
+    # actuator_in_pin_2.off()
 
 
-right()
+# right()
 left()
