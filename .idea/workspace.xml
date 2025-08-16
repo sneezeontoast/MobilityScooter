@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd99921c-1322-4815-8b69-79011a5b31e4" name="Changes" comment="Working me thinks">
+    <list default="true" id="fd99921c-1322-4815-8b69-79011a5b31e4" name="Changes" comment="Left not working and it caused fuse to blow yellow wire nit reciving">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/steer.py" beforeDir="false" afterPath="$PROJECT_DIR$/steer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +143,23 @@
       <option name="project" value="LOCAL" />
       <updated>1755248886736</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Left not working and it caused fuse to blow">
+      <option name="closed" value="true" />
+      <created>1755269953411</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1755269953411</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Left not working and it caused fuse to blow yellow wire nit reciving">
+      <option name="closed" value="true" />
+      <created>1755270130596</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1755270130596</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,6 +169,8 @@
     <MESSAGE value="WORKING ONE WAY" />
     <MESSAGE value="Hopefullly work" />
     <MESSAGE value="Working me thinks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working me thinks" />
+    <MESSAGE value="Left not working and it caused fuse to blow" />
+    <MESSAGE value="Left not working and it caused fuse to blow yellow wire nit reciving" />
+    <option name="LAST_COMMIT_MESSAGE" value="Left not working and it caused fuse to blow yellow wire nit reciving" />
   </component>
 </project>
