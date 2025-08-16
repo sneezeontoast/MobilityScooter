@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd99921c-1322-4815-8b69-79011a5b31e4" name="Changes" comment="Left not working and it caused fuse to blow yellow wire nit reciving">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fd99921c-1322-4815-8b69-79011a5b31e4" name="Changes" comment="idk">
       <change beforePath="$PROJECT_DIR$/steer.py" beforeDir="false" afterPath="$PROJECT_DIR$/steer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -159,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755270130596</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="idk">
+      <option name="closed" value="true" />
+      <created>1755366363093</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1755366363093</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -171,6 +178,7 @@
     <MESSAGE value="Working me thinks" />
     <MESSAGE value="Left not working and it caused fuse to blow" />
     <MESSAGE value="Left not working and it caused fuse to blow yellow wire nit reciving" />
-    <option name="LAST_COMMIT_MESSAGE" value="Left not working and it caused fuse to blow yellow wire nit reciving" />
+    <MESSAGE value="idk" />
+    <option name="LAST_COMMIT_MESSAGE" value="idk" />
   </component>
 </project>
