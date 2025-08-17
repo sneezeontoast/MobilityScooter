@@ -3,12 +3,12 @@ from gpiozero import DigitalOutputDevice
 import time
 
 # Change colour ones
-actuator_in_pin_1 = DigitalOutputDevice(18)  # neg
-actuator_in_pin_2 = DigitalOutputDevice(26)  # pos
+actuator_in_pin_1 = DigitalOutputDevice(27)  # neg green
+actuator_in_pin_2 = DigitalOutputDevice(15)  # pos yellow
 
 # Same colour ones
-actuator_out_pin_1 = DigitalOutputDevice(21)  # neg
-actuator_out_pin_2 = DigitalOutputDevice(17)  # pos
+actuator_out_pin_1 = DigitalOutputDevice(21)  # neg orange
+actuator_out_pin_2 = DigitalOutputDevice(17)  # pos white wire
 
 
 # loop through 50 times, on/off for 1 second
@@ -23,7 +23,7 @@ def right():
 
 
 def left():
-    print("Moving left yellow wire not reciving")
+    print("Moving left")
     actuator_in_pin_1.on()
     actuator_in_pin_2.on()
     time.sleep(2)
@@ -31,5 +31,6 @@ def left():
     actuator_in_pin_2.off()
 
 
-# right()
+right()
+time.sleep(2)
 left()
