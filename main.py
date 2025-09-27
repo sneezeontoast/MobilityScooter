@@ -8,16 +8,21 @@ from signal import pause
 import steer
 import potentiometer as p
 
+forward = 15.27
+backwards = 2
+stop = 7.17 #  maybe 9.17
+
+moving = False
 def dpad(pos):
     if pos.top:
         # Start
         print("up")
-        p.set_voltage(9)
+        p.set_voltage(forward)
     elif pos.bottom:
         # Brake
 
-        print("Stop ••••|")
-        p.set_voltage(0)
+        print("Back")
+        p.set_voltage(backwards)
     elif pos.left:
 
         # Turn Left
@@ -28,8 +33,9 @@ def dpad(pos):
         print("right")
         steer.right()
     elif pos.middle:
-        # nothing
-        print("nothing yet...")
+
+        print("Stop ••••|")
+        p.set_voltage(stop)
 
 bd = BlueDot()
 while True:
